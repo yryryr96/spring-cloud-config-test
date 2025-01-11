@@ -1,6 +1,6 @@
 token:
   expiration_time: 864
-  secret: aaaaaaaaaabbbbbbbbbbbbcccccccccccccddddddddddddddddd_token
+  secret: aaaaaaaaaabbbbbbbbbbbbcccccccccccccddddddddddddddddd
 
 gateway:
   ip: 192.168.45.85
