@@ -1,6 +1,2 @@
-token:
-  expiration_time: 86400000
-  secret: aaaaaaaaaabbbbbbbbbbbbcccccccccccccddddddddddddddddd_default
-
 gateway:
   ip: 192.168.45.85

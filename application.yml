@@ -1,0 +1,6 @@
+token:
+  expiration_time: 86400000
+  secret: '{cipher}AQBS1ENHkTC3x/o9TG8ejtbQ+4+lit1e3TdF9wcuHXiy1LEawJUZ5eXtQzhYgZTVCr6jlHq8UPPsZja3COpFmSChyhRlNg0ND+HBjTIFi5xZ0okqH6R0K+pPRiSPqwIRrn+fTkNzbDSMkhGqvv7ngEmqrLAVtz/s42ylCDKG6Gu7SXoWJf+kdqXrYgOKZgtJJRABW/DjcvLcEM6BvmKK3E/DPeh0JUW5NPWeJKJR+lSkBeg+Xd3AbMBBftl1KwIiVX1/qDvRoHAzc5iZzc1cm36xSwiyrNdPdovsd+F6rar/wnHA2ZRQDJs+Esp+jzD47EifC0pn0kAMV4KuAQ3XbEAX5r5ryAc0SWePv+bJZU3VuguKF1VKwmv7ewYq9kgSu+0RZoHfp/oaQscoblqz3Bbw3s6y1g4wGophxJH2FYheIg=='
+
+gateway:
+  ip: 192.168.45.85
